@@ -1,0 +1,4 @@
+-1 the movie was terrible
+1 i loved the book
+1 the music was fantastic
+-1 the service was awful

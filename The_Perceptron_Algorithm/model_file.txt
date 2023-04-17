@@ -1,0 +1,10 @@
+UNI:the 0.5
+UNI:movie -0.2
+UNI:terrible -0.7
+UNI:i 0.3
+UNI:loved 0.8
+UNI:book 0.6
+UNI:music 0.9
+UNI:fantastic 0.7
+UNI:service -0.6
+UNI:awful -0.8
